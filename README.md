@@ -31,7 +31,6 @@ https://aksco.github.io/workdayscheduler/.
 Run the index file ensuring that it opens in Google Chrome for optimal results.
 
 ![Screenshot of Page](assets/img/Screenshot1.png)
-<img alt = "screenshot"src="assets/img/Screenshot1.png" width="324" height="324">
 
 ## Credits/Collaboration
 
