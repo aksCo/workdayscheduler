@@ -24,7 +24,7 @@ How? Using JavaScript including Moments.js, HTML and CSS
 
 ## Link to Deployed Application
 
-https://aksco.github.io/workdayscheduler/
+https://aksco.github.io/workdayscheduler/.
 
 ## Usage
 
