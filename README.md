@@ -30,7 +30,7 @@ https://aksco.github.io/workdayscheduler/.
 
 Run the index file ensuring that it opens in Google Chrome for optimal results.
 
-![Screenshot of Page](assets/img/Screenshot1)
+![Screenshot of Page](assets/img/.Screenshot1)
 
 ## Credits/Collaboration
 
